@@ -1,6 +1,10 @@
 #include <stdio.h>
-int main()
+/*
+*main - entry point of program
+*/
+
+int main(void)
 {
-   printf("Hello World");
-   return 0;
+printf("Hello World");
+return (0);
 }
